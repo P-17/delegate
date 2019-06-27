@@ -1,0 +1,6 @@
+E:\dotnet\Calculator\Calculator\Cal1\bin\Debug\Cal1.dll
+E:\dotnet\Calculator\Calculator\Cal1\bin\Debug\Cal1.pdb
+E:\dotnet\Calculator\Calculator\Cal1\obj\Debug\Cal1.csprojAssemblyReference.cache
+E:\dotnet\Calculator\Calculator\Cal1\obj\Debug\Cal1.csproj.CoreCompileInputs.cache
+E:\dotnet\Calculator\Calculator\Cal1\obj\Debug\Cal1.dll
+E:\dotnet\Calculator\Calculator\Cal1\obj\Debug\Cal1.pdb

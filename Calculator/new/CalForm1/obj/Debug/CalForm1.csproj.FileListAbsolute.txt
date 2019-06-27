@@ -1,0 +1,13 @@
+E:\dotnet\Calculator\Calculator\CalForm1\bin\Debug\CalForm1.exe.config
+E:\dotnet\Calculator\Calculator\CalForm1\bin\Debug\CalForm1.exe
+E:\dotnet\Calculator\Calculator\CalForm1\bin\Debug\CalForm1.pdb
+E:\dotnet\Calculator\Calculator\CalForm1\bin\Debug\Cal1.dll
+E:\dotnet\Calculator\Calculator\CalForm1\bin\Debug\Cal1.pdb
+E:\dotnet\Calculator\Calculator\CalForm1\obj\Debug\CalForm1.csprojAssemblyReference.cache
+E:\dotnet\Calculator\Calculator\CalForm1\obj\Debug\CalForm1.Form1.resources
+E:\dotnet\Calculator\Calculator\CalForm1\obj\Debug\CalForm1.Properties.Resources.resources
+E:\dotnet\Calculator\Calculator\CalForm1\obj\Debug\CalForm1.csproj.GenerateResource.cache
+E:\dotnet\Calculator\Calculator\CalForm1\obj\Debug\CalForm1.csproj.CoreCompileInputs.cache
+E:\dotnet\Calculator\Calculator\CalForm1\obj\Debug\CalForm1.csproj.CopyComplete
+E:\dotnet\Calculator\Calculator\CalForm1\obj\Debug\CalForm1.exe
+E:\dotnet\Calculator\Calculator\CalForm1\obj\Debug\CalForm1.pdb
